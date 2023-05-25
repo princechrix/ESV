@@ -9,7 +9,7 @@
 <body>
 
 
-<h2>This is about Page</h2>
+<h2>Just Changed the About</h2>
     
 </body>
 </html>
